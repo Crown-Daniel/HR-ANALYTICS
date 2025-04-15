@@ -16,6 +16,9 @@
 ### Project Overview
 This project attempt to look into the issue of staff churn using data such as Employee Count, Attrition, Business Travel, CF_age band, CF_attrition label, Department, Education Field, emplo no, Employee Number, Gender, Job Role, Marital Status, Over Time, Over18, Training Times Last Year, Age, CF_current Employee, Daily Rate, Distance From Home, Education, Employee Count, Environment Satisfaction, Hourly Rate, Job Involvement, Job Level, Job Satisfaction, Monthly Income, Monthly Rate, Num Companies Worked, Percent Salary Hike, Performance Rating, Relationship Satisfaction, Standard Hours, Stock Option Level, Total Working Years, Work Life Balance, Years At Company, Years In Current Role, Years Since Last Promotion, Years With Curr Manager. Stakeholders want to know why staffs are leaving the company, wants to know the department with the highest number of staffs that left and there gender also there average age, taking note of employee count, attrition, attrition rate, active employees and average age of employees filtered by education.
 
+![Screenshot (1)](https://github.com/user-attachments/assets/75a11e13-5697-459e-816a-0267b8edf135)
+
+
 ### Data Sources
 The primary dataset used for this analysis is A fiction India company. [link](https://docs.google.com/spreadsheets/...)
 
